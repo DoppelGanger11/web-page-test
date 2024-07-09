@@ -602,8 +602,8 @@ img {
 
 .end{
     display: grid;
-    grid-template-columns: 2fr 1fr 1fr;
-    height: 50%;
+    grid-template-columns: 1fr 1fr 1fr;
+    height: 40%;
     background-color: rgba(0, 0, 0, 0.9);
 }
 
@@ -618,8 +618,8 @@ img {
 }
 
 .end-logo{
-    max-width: 500px;
-    height: 100px;
+    max-width: 300px;
+    height: 80px;
     object-fit: cover;
     border-radius: 15px;
 }
