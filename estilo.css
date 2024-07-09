@@ -221,6 +221,10 @@ body {
     padding: 20px;
 }
 
+.img-sec a{
+    text-decoration: none;
+}
+
 .img-sec div{
     border-radius: 15px;
 }
